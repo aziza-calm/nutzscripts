@@ -5,4 +5,4 @@ some useful scripts
 
 `rexl.py` - the same but in pure python
 
-Requirements: openpyxl, pymorphy2 modules and two excel files, one with data (`from.xlsx`) and one with only base ('to.xlsx`)
+Requirements: openpyxl, pymorphy2 modules and two excel files, one with data (`from.xlsx`) and one with only base (`to.xlsx`)
